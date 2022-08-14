@@ -8,7 +8,7 @@ public class SolvingScheduler {
 
     @Scheduled(cron = "${solving.scheduler.cron}")
     void startSolving() {
-
+        System.out.println("HEloo");
     }
 
 }
