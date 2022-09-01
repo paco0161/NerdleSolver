@@ -1,4 +1,4 @@
-package com.nerdlesolver.nerdlesolver.config;
+package com.nerdlesolver.nerdlesolver.domain.config;
 
 import com.nerdlesolver.nerdlesolver.domain.NerdleGame;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
